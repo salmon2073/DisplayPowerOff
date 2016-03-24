@@ -1,1 +1,2 @@
 C:\Users\Hiroaki\Google ドライブ\作業フォルダ\VisualStudioProject\DisplayPowerOff\DisplayPowerOff\bin\Debug\DisplayPowerOff.exe.config
+C:\Users\Hiroaki\Google ドライブ\作業フォルダ\repositories\DisplayPowerOff\DisplayPowerOff\bin\Debug\DisplayPowerOff.exe.config
